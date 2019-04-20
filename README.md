@@ -39,10 +39,10 @@ Workflow and Understanding of the Laravel Eloquent Ecosystem._
 - [ ] **[practicaltypography.com](practicaltypography.com)** _Practical Typography for Web Development_
 - [ ] **[freecodecamp.org](freecodecamp.org)** _Learn Web Development_
 
-## Software Development
+## Methodologies
 _Agile is an iterative approach to project management and software development._
-* **[atlassian.com/agile](atlassian.com/agile)** 
-* **[mountaingoatsoftware.com/agile](mountaingoatsoftware.com/agile)**
+* [ ] **[atlassian.com/agile](atlassian.com/agile)** 
+* [ ] **[mountaingoatsoftware.com/agile](mountaingoatsoftware.com/agile)**
 
 ## TOOLS
 * **[prettyci.com](prettyci.com)** _Continuous integration for PHP coding standards._
