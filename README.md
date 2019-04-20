@@ -19,12 +19,12 @@
 - **[phpschool.io](phpschool.io)** _A dedicated community based learning platform that will teach you the core skills in PHP._
 - **[phpdelusions.net/pdo](phpdelusions.net/pdo)** _(The only proper) PDO tutorial_
 
-### Laravel
+#### Laravel
 - [ ] **[laravelcoreadventures.com](laravelcoreadventures.com)** _Explore the Laravel core from the safety of your home with this free video series. _
 - [ ] **[eloquentbyexample.com](eloquentbyexample.com)** _An online course to Learn the Tools and Functions key to a Professional
 Workflow and Understanding of the Laravel Eloquent Ecosystem._
 
-### Master
+#### Master
 - **[phpbestpractices.org](phpbestpractices.org)**
 - **[designpatternsphp.readthedocs.io/en/latest](designpatternsphp.readthedocs.io/en/latest)**
 - **[phptherightway.com](phptherightway.com)**
