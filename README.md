@@ -3,14 +3,28 @@
 ## Guides
 - **[markdownguide.org](markdownguide.org)** _A free and open-source reference guide that explains how to use Markdown._
 - **[jsonapi.org](jsonapi.org)** _A specification for building APIs in JSON._
+* [ ] **[serversforhackers.com](serversforhackers.com)** _Teaching the server tech you need for development and production._
 
 ## Tutorials
+* [ ] **[howhttps.works](howhttps.works)**
 * [ ] **[Time Complexity](adrianmejia.com/blog/2018/04/05/most-popular-algorithms-time-complexity-every-programmer-should-know-free-online-tutorial-course/)**
+* [ ] **[freecodecamp.org](freecodecamp.org)** _We have thousands of coding lessons to help you improve your skills._
 
 ## Web Resources
+- **[webslesson.info](webslesson.info)**
 - **[codepad.co](codepad.co)** _Codepad is a place for developers to share code snippets._
 
 ## PHP
+- [ ] **[PHP Tutorial](https://developer.hyvor.com/tutorials/php/introduction)**
+- **[phpschool.io](phpschool.io)** _A dedicated community based learning platform that will teach you the core skills in PHP._
+- **[phpdelusions.net/pdo](phpdelusions.net/pdo)** _(The only proper) PDO tutorial_
+
+### Laravel
+- [ ] **[laravelcoreadventures.com](laravelcoreadventures.com)** _Explore the Laravel core from the safety of your home with this free video series. _
+- [ ] **[eloquentbyexample.com](eloquentbyexample.com)** _An online course to Learn the Tools and Functions key to a Professional
+Workflow and Understanding of the Laravel Eloquent Ecosystem._
+
+### Master
 - **[phpbestpractices.org](phpbestpractices.org)**
 - **[designpatternsphp.readthedocs.io/en/latest](designpatternsphp.readthedocs.io/en/latest)**
 - **[phptherightway.com](phptherightway.com)**
