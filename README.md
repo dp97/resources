@@ -1,7 +1,24 @@
 # Resources
 
-## Tuturials & Guides
-- [ ] **[markdownguide.org](markdownguide.org)** _A free and open-source reference guide that explains how to use Markdown._
+## Guides
+- **[markdownguide.org](markdownguide.org)** _A free and open-source reference guide that explains how to use Markdown._
+- **[jsonapi.org](jsonapi.org)** _A specification for building APIs in JSON._
+
+## Tutorials
+* [ ] **[Time Complexity](adrianmejia.com/blog/2018/04/05/most-popular-algorithms-time-complexity-every-programmer-should-know-free-online-tutorial-course/)**
+
+## Web Resources
+- **[codepad.co](codepad.co)** _Codepad is a place for developers to share code snippets._
+
+## PHP
+- **[phpbestpractices.org](phpbestpractices.org)**
+- **[designpatternsphp.readthedocs.io/en/latest](designpatternsphp.readthedocs.io/en/latest)**
+- **[phptherightway.com](phptherightway.com)**
+- **[github.com/jupeter/clean-code-php](github.com/jupeter/clean-code-php)**
+
+## CSS
+- **[getbem.com](getbem.com)**
+- **[cssanimation.rocks](cssanimation.rocks)** _CSS animation articles, tips and tutorials. _
 
 ## Web Development
 - [x] **[internetingishard.com](internetingishard.com)** _Friendly web development tutorials for complete beginners_
@@ -23,6 +40,13 @@ _Agile is an iterative approach to project management and software development._
 * **[gallery.manypixels.co](gallery.manypixels.co)** __
 * **[simpleanalytics.io](simpleanalytics.io)** _Simple, clean, and friendly analytics._
 
+## Practice
+1. **[play.battlesnake.io](play.battlesnake.io)**
+1. **[adventofcode.com/2018/day/17](adventofcode.com/2018/day/17)**
+1. **[codewars.com](codewars.com)**
+
 ## Learn by Building
 * [ ] **[emulator101.com](emulator101.com)** _Writing an arcade game emulator._
 * [ ] **[cstack.github.io/db_tutorial](cstack.github.io/db_tutorial)** _Build a sqlite Database._
+
+## Other
