@@ -44,6 +44,8 @@ _Agile is an iterative approach to project management and software development._
 * [ ] **[atlassian.com/agile](atlassian.com/agile)** 
 * [ ] **[mountaingoatsoftware.com/agile](mountaingoatsoftware.com/agile)**
 
+- [x] **[S.O.L.I.D. Principles](https://scotch.io/bar-talk/s-o-l-i-d-the-first-five-principles-of-object-oriented-design#toc-interface-segregation-principle)**
+
 ## TOOLS
 * **[prettyci.com](prettyci.com)** _Continuous integration for PHP coding standards._
 * **[ikonate.com](ikonate.com)** _fully customisable & accessible vector icons_
