@@ -63,4 +63,5 @@ _Agile is an iterative approach to project management and software development._
 * [ ] **[emulator101.com](emulator101.com)** _Writing an arcade game emulator._
 * [ ] **[cstack.github.io/db_tutorial](cstack.github.io/db_tutorial)** _Build a sqlite Database._
 
-## Other
+## Blogs
+1. **[Robert C. Martin (Uncle Bob)](blog.cleancoder.com)** _The Clean Code Blog_
