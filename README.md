@@ -20,6 +20,7 @@
 - **[phpdelusions.net/pdo](phpdelusions.net/pdo)** _(The only proper) PDO tutorial_
 
 #### Laravel
+- [ ] **[coderstape.com](coderstape.com)** _Video series lesson's on Laravel._
 - [ ] **[laravelcoreadventures.com](laravelcoreadventures.com)** _Explore the Laravel core from the safety of your home with this free video series. _
 - [ ] **[eloquentbyexample.com](eloquentbyexample.com)** _An online course to Learn the Tools and Functions key to a Professional
 Workflow and Understanding of the Laravel Eloquent Ecosystem._
