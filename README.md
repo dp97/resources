@@ -3,12 +3,25 @@
 ## Guides
 - **[markdownguide.org](markdownguide.org)** _A free and open-source reference guide that explains how to use Markdown._
 - **[jsonapi.org](jsonapi.org)** _A specification for building APIs in JSON._
-* [ ] **[serversforhackers.com](serversforhackers.com)** _Teaching the server tech you need for development and production._
+- **[serversforhackers.com](serversforhackers.com)** _Teaching the server tech you need for development and production._
 
 ## Tutorials
-* [ ] **[howhttps.works](howhttps.works)**
-* [ ] **[Time Complexity](adrianmejia.com/blog/2018/04/05/most-popular-algorithms-time-complexity-every-programmer-should-know-free-online-tutorial-course/)**
-* [ ] **[freecodecamp.org](freecodecamp.org)** _We have thousands of coding lessons to help you improve your skills._
+
+#### CSS
+- **[getbem.com](getbem.com)**
+- **[cssanimation.rocks](cssanimation.rocks)** _CSS animation articles, tips and tutorials. _
+
+#### Web Development
+- [ ] **[freecodecamp.org](freecodecamp.org)** _We have thousands of coding lessons to help you improve your skills._
+- [x] **[internetingishard.com](internetingishard.com)** _Friendly web development tutorials for complete beginners_
+- [ ] **[practicaltypography.com](practicaltypography.com)** _Practical Typography for Web Development_
+- [ ] **[scotch.io](scotch.io)** _Fun and practical web development tutorials._
+
+#### CS
+1. [ ] **[howhttps.works](howhttps.works)**
+1. [ ] **[Time Complexity](adrianmejia.com/blog/2018/04/05/most-popular-algorithms-time-complexity-every-programmer-should-know-free-online-tutorial-course/)**
+1. [x] **[S.O.L.I.D. Principles](https://scotch.io/bar-talk/s-o-l-i-d-the-first-five-principles-of-object-oriented-design#toc-interface-segregation-principle)**
+
 
 ## Web Resources
 - **[webslesson.info](webslesson.info)**
@@ -31,21 +44,12 @@ Workflow and Understanding of the Laravel Eloquent Ecosystem._
 - **[phptherightway.com](phptherightway.com)**
 - **[github.com/jupeter/clean-code-php](github.com/jupeter/clean-code-php)**
 
-## CSS
-- **[getbem.com](getbem.com)**
-- **[cssanimation.rocks](cssanimation.rocks)** _CSS animation articles, tips and tutorials. _
-
-## Web Development
-- [x] **[internetingishard.com](internetingishard.com)** _Friendly web development tutorials for complete beginners_
-- [ ] **[practicaltypography.com](practicaltypography.com)** _Practical Typography for Web Development_
-- [ ] **[freecodecamp.org](freecodecamp.org)** _Learn Web Development_
-
 ## Methodologies
 _Agile is an iterative approach to project management and software development._
 * [ ] **[atlassian.com/agile](atlassian.com/agile)** 
 * [ ] **[mountaingoatsoftware.com/agile](mountaingoatsoftware.com/agile)**
 
-- [x] **[S.O.L.I.D. Principles](https://scotch.io/bar-talk/s-o-l-i-d-the-first-five-principles-of-object-oriented-design#toc-interface-segregation-principle)**
+
 
 ## TOOLS
 * **[prettyci.com](prettyci.com)** _Continuous integration for PHP coding standards._
