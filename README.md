@@ -35,7 +35,8 @@
 1. **[codepad.co](codepad.co)** _Codepad is a place for developers to share code snippets._
 
 ## PHP
-- [ ] **[PHP Tutorial](https://developer.hyvor.com/tutorials/php/introduction)**
+- **[PHP resources](https://github.com/ziadoz/awesome-php)** _A curated list of amazingly awesome PHP libraries, resources and shiny things. _
+- **[PHP Tutorial](https://developer.hyvor.com/tutorials/php/introduction)**
 - **[phpschool.io](phpschool.io)** _A dedicated community based learning platform that will teach you the core skills in PHP._
 - **[phpdelusions.net/pdo](phpdelusions.net/pdo)** _(The only proper) PDO tutorial_
 
