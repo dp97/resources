@@ -28,8 +28,8 @@
 1. [x] **[S.O.L.I.D. Principles](https://scotch.io/bar-talk/s-o-l-i-d-the-first-five-principles-of-object-oriented-design#toc-interface-segregation-principle)**
 
 
-## Web Resources
-- **[webslesson.info](webslesson.info)**
+## Resources
+- **[sourcemaking.com](https://sourcemaking.com/)** | **[refactoring.guru](https://refactoring.guru/)** _Discover everything you need to know about refactoring, design patterns, SOLID principles and other smart programming topics._
 - **[codepad.co](codepad.co)** _Codepad is a place for developers to share code snippets._
 
 ## PHP
