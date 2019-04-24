@@ -49,9 +49,11 @@ _Agile is an iterative approach to project management and software development._
 * [ ] **[atlassian.com/agile](atlassian.com/agile)** 
 * [ ] **[mountaingoatsoftware.com/agile](mountaingoatsoftware.com/agile)**
 
-
-
 ## TOOLS
+#### CLI TOOLS
+- **[HTTPie](https://httpie.org)** _- cURL-like tool for humans._
+
+#### WEB DEV TOOLS
 * **[prettyci.com](prettyci.com)** _Continuous integration for PHP coding standards._
 * **[ikonate.com](ikonate.com)** _fully customisable & accessible vector icons_
 * **[iconsvg.xyz](iconsvg.xyz)** __
