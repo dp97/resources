@@ -12,6 +12,7 @@
 - **[cssanimation.rocks](cssanimation.rocks)** _CSS animation articles, tips and tutorials. _
 
 #### Web Development
+- [ ] **[developers.google.com/web/fundamentals](https://developers.google.com/web/fundamentals/)** _Google's opinionated reference for building amazing web experiences._
 - [ ] **[freecodecamp.org](freecodecamp.org)** _We have thousands of coding lessons to help you improve your skills._
 - [x] **[internetingishard.com](internetingishard.com)** _Friendly web development tutorials for complete beginners_
 - [ ] **[practicaltypography.com](practicaltypography.com)** _Practical Typography for Web Development_
