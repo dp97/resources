@@ -20,7 +20,8 @@
 - [ ] **[scotch.io](scotch.io)** _Fun and practical web development tutorials._
 
 #### UI
-- **[refactoringui.com](https://refactoringui.com/)** _Learn how to design awesome UIs by yourself using specific tactics explained from a developer's point-of-view._
+1. **[refactoringui.com](https://refactoringui.com/)** _Learn how to design awesome UIs by yourself using specific tactics explained from a developer's point-of-view._
+1. **[material.io](https://material.io/)** _Material is a design system – backed by open-source code – that helps teams build high-quality digital experiences_
 
 #### CS
 1. [ ] **[howhttps.works](howhttps.works)**
@@ -29,8 +30,9 @@
 
 
 ## Resources
-- **[sourcemaking.com](https://sourcemaking.com/)** | **[refactoring.guru](https://refactoring.guru/)** _Discover everything you need to know about refactoring, design patterns, SOLID principles and other smart programming topics._
-- **[codepad.co](codepad.co)** _Codepad is a place for developers to share code snippets._
+1. **[sourcemaking.com](https://sourcemaking.com/)** | **[refactoring.guru](https://refactoring.guru/)** _Discover everything you need to know about refactoring, design patterns, SOLID principles and other smart programming topics._
+1. **[design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans)** _Ultra-simplified explanation to design patterns!_
+1. **[codepad.co](codepad.co)** _Codepad is a place for developers to share code snippets._
 
 ## PHP
 - [ ] **[PHP Tutorial](https://developer.hyvor.com/tutorials/php/introduction)**
