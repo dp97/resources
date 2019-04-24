@@ -12,11 +12,15 @@
 - **[cssanimation.rocks](cssanimation.rocks)** _CSS animation articles, tips and tutorials. _
 
 #### Web Development
+- [ ] **[web.dev](https://web.dev/about)** _Whether you already have a website or you're just getting started, learn to build for the modern web at web.dev._
 - [ ] **[developers.google.com/web/fundamentals](https://developers.google.com/web/fundamentals/)** _Google's opinionated reference for building amazing web experiences._
 - [ ] **[freecodecamp.org](freecodecamp.org)** _We have thousands of coding lessons to help you improve your skills._
 - [x] **[internetingishard.com](internetingishard.com)** _Friendly web development tutorials for complete beginners_
 - [ ] **[practicaltypography.com](practicaltypography.com)** _Practical Typography for Web Development_
 - [ ] **[scotch.io](scotch.io)** _Fun and practical web development tutorials._
+
+#### UI
+- **[refactoringui.com](https://refactoringui.com/)** _Learn how to design awesome UIs by yourself using specific tactics explained from a developer's point-of-view._
 
 #### CS
 1. [ ] **[howhttps.works](howhttps.works)**
