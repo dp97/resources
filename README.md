@@ -54,6 +54,7 @@ _Agile is an iterative approach to project management and software development._
 - **[HTTPie](https://httpie.org)** _- cURL-like tool for humans._
 
 #### WEB DEV TOOLS
+* **[letsencrypt.org](https://letsencrypt.org/)** _Let’s Encrypt is a free, automated, and open Certificate Authority._
 * **[prettyci.com](prettyci.com)** _Continuous integration for PHP coding standards._
 * **[ikonate.com](ikonate.com)** _fully customisable & accessible vector icons_
 * **[iconsvg.xyz](iconsvg.xyz)** __
