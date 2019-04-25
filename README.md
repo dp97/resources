@@ -23,7 +23,6 @@
 
 #### UI
 1. **[refactoringui.com](https://refactoringui.com/)** _Learn how to design awesome UIs by yourself using specific tactics explained from a developer's point-of-view._
-1. **[material.io](https://material.io/)** _Material is a design system – backed by open-source code – that helps teams build high-quality digital experiences_
 
 #### CS
 1. [ ] **[howhttps.works](howhttps.works)**
