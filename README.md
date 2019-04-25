@@ -7,9 +7,11 @@
 
 ## Tutorials
 
-#### CSS
+#### CSS & HTML
+- **[htmlreference.io](https://htmlreference.io/)** _A free guide to HTML. It features all elements and attributes._
+- **[cssreference.io](https://cssreference.io/)** _A free visual guide to CSS. It features the most popular properties, and explains them with illustrated and animated examples._
 - **[getbem.com](getbem.com)**
-- **[cssanimation.rocks](cssanimation.rocks)** _CSS animation articles, tips and tutorials. _
+- **[cssanimation.rocks](cssanimation.rocks)** _CSS animation articles, tips and tutorials._
 
 #### Web Development
 - [ ] **[web.dev](https://web.dev/about)** _Whether you already have a website or you're just getting started, learn to build for the modern web at web.dev._
