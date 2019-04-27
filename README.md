@@ -63,6 +63,7 @@ _Agile is an iterative approach to project management and software development._
 
 ## TOOLS
 #### CLI TOOLS
+- **[Ack!](https://beyondgrep.com/)** _A tool like grep, optimized for programmers_
 - **[HTTPie](https://httpie.org)** _- cURL-like tool for humans._
 - **[vimawesome.com](https://vimawesome.com/)** _Plugins for vim._
 
