@@ -72,6 +72,7 @@ _Agile is an iterative approach to project management and software development._
 - **[vimawesome.com](https://vimawesome.com/)** _Plugins for vim._
 
 #### WEB DEV TOOLS
+* **[cssfx.dev](https://cssfx.dev/)** _Beautifully simple click-to-copy CSS effects._
 * **[gallery.manypixels.co](https://gallery.manypixels.co/)** _Each week, discover royalty-free illustrations to power up your projects._
 * **[undraw.co/illustrations](https://undraw.co/illustrations)** _Browse to find the images that fit your needs and click to download._
 * **[letsencrypt.org](https://letsencrypt.org/)** _Let’s Encrypt is a free, automated, and open Certificate Authority._
