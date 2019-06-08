@@ -10,6 +10,7 @@
 - **[cssreference.io](https://cssreference.io/)** _A free visual guide to CSS. It features the most popular properties, and explains them with illustrated and animated examples._
 
 ## VIM
+- **[VIM golf](http://www.vimgolf.com/)** _Pick a challenge, fire up Vim, and show us what you got._
 - **[Cheat Sheet](https://vim.rtorr.com/)** _Vim Cheat Sheet._
 - **[Plugins](https://vimawesome.com/)** _Awesome Vim plugins from across the Universe._
 - **[Vimcasts.org](http://vimcasts.org/)** _Free screencasts on vim._
