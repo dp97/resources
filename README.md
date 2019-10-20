@@ -1,5 +1,8 @@
 # Resources
 
+## Fonts
+- **[Hack](https://sourcefoundry.org/hack/)** - _Hack is hand groomed and optically balanced to be your go-to code face._
+
 ## Guides
 - **[markdownguide.org](markdownguide.org)** _A free and open-source reference guide that explains how to use Markdown._
 - **[jsonapi.org](jsonapi.org)** _A specification for building APIs in JSON._
