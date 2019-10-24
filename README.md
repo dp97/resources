@@ -47,11 +47,12 @@
 1. **[codepad.co](codepad.co)** _Codepad is a place for developers to share code snippets._
 
 ## PHP
-- **[PHP resources](https://github.com/ziadoz/awesome-php)** _A curated list of amazingly awesome PHP libraries, resources and shiny things. _
+- **[PHP resources](https://github.com/ziadoz/awesome-php)** _A curated list of amazingly awesome PHP libraries, resources and shiny things._
 - **[PHP Tutorial](https://developer.hyvor.com/tutorials/php/introduction)**
 - **[phpschool.io](phpschool.io)** _A dedicated community based learning platform that will teach you the core skills in PHP._
 - **[phpdelusions.net/pdo](phpdelusions.net/pdo)** _(The only proper) PDO tutorial_
 - **[Book] PHP Objects, Patterns, and Practice 5th ed. Edition** _by_ MATT ZANDSTRA
+- [ ] **[Create framework](https://symfony.com/doc/current/create_framework/index.html)** - _Create your own PHP Framework._
 
 #### Laravel
 - [ ] **[coderstape.com](coderstape.com)** _Video series lesson's on Laravel._
@@ -96,7 +97,6 @@ _Agile is an iterative approach to project management and software development._
 1. **[codewars.com](codewars.com)**
 
 ## Learn by Building
-* [ ] **[create framework](https://symfony.com/doc/current/create_framework/index.html)** - _Create your own PHP Framework._
 * [ ] **[emulator101.com](emulator101.com)** - _Writing an arcade game emulator._
 * [ ] **[cstack.github.io/db_tutorial](cstack.github.io/db_tutorial)** - _Build a sqlite Database._
 
