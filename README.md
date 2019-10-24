@@ -51,8 +51,9 @@
 - **[PHP Tutorial](https://developer.hyvor.com/tutorials/php/introduction)**
 - **[phpschool.io](phpschool.io)** _A dedicated community based learning platform that will teach you the core skills in PHP._
 - **[phpdelusions.net/pdo](phpdelusions.net/pdo)** _(The only proper) PDO tutorial_
-- **[Book] PHP Objects, Patterns, and Practice 5th ed. Edition** _by_ MATT ZANDSTRA
+- [Book] **PHP Objects, Patterns, and Practice 5th ed. Edition** _by_ MATT ZANDSTRA
 - [ ] **[Create framework](https://symfony.com/doc/current/create_framework/index.html)** - _Create your own PHP Framework._
+- **[30 seconds of PHP](https://php.30secondsofcode.org/list)** - Curated collection of useful PHP snippets that you can understand in 30 seconds or less.
 
 #### Laravel
 - [ ] **[coderstape.com](coderstape.com)** _Video series lesson's on Laravel._
