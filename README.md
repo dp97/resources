@@ -4,7 +4,6 @@
 - **[Hack](https://sourcefoundry.org/hack/)** - _Hack is hand groomed and optically balanced to be your go-to code face._
 
 ## Guides
-- **[markdownguide.org](markdownguide.org)** _A free and open-source reference guide that explains how to use Markdown._
 - **[jsonapi.org](jsonapi.org)** _A specification for building APIs in JSON._
 - **[serversforhackers.com](serversforhackers.com)** _Teaching the server tech you need for development and production._
 
@@ -36,6 +35,7 @@
 1. **[refactoringui.com](https://refactoringui.com/)** _Learn how to design awesome UIs by yourself using specific tactics explained from a developer's point-of-view._
 
 #### CS
+1. **[RedBlobGames](https://www.redblobgames.com/)** - Interactive visual explanations of math and algorithms, using motivating examples from computer games.
 1. [ ] **[howhttps.works](howhttps.works)**
 1. [ ] **[Time Complexity](adrianmejia.com/blog/2018/04/05/most-popular-algorithms-time-complexity-every-programmer-should-know-free-online-tutorial-course/)**
 1. [x] **[S.O.L.I.D. Principles](https://scotch.io/bar-talk/s-o-l-i-d-the-first-five-principles-of-object-oriented-design#toc-interface-segregation-principle)**
@@ -94,7 +94,7 @@ _Agile is an iterative approach to project management and software development._
 
 ## Practice
 1. **[play.battlesnake.io](play.battlesnake.io)**
-1. **[adventofcode.com/2018/day/17](adventofcode.com/2018/day/17)**
+1. **[adventofcode.com](adventofcode.com)**
 1. **[codewars.com](codewars.com)**
 
 ## Learn by Building
