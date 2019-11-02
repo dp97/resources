@@ -4,6 +4,7 @@
 - **[Ack!](https://beyondgrep.com/)** - _A tool like grep, optimized for programmers._
 - **[HTTPie](https://httpie.org)** - _cURL-like tool for humans._
 - **[tldr](https://github.com/tldr-pages/tldr)** - _Simplified and community-driven man pages._
+- **[fzf](https://github.com/junegunn/fzf)** - _A general-purpose command-line fuzzy finder._
 
 ## Fonts
 - **[Hack](https://sourcefoundry.org/hack/)** - _Hack is hand groomed and optically balanced to be your go-to code face._
