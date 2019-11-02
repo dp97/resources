@@ -1,10 +1,15 @@
 # Resources
 
+### CLI TOOLS
+- **[Ack!](https://beyondgrep.com/)** - _A tool like grep, optimized for programmers._
+- **[HTTPie](https://httpie.org)** - _cURL-like tool for humans._
+- **[tldr](https://github.com/tldr-pages/tldr)** - _Simplified and community-driven man pages._
+
 ## Fonts
 - **[Hack](https://sourcefoundry.org/hack/)** - _Hack is hand groomed and optically balanced to be your go-to code face._
 
 ## Guides
-- **[jsonapi.org](jsonapi.org)** _A specification for building APIs in JSON._
+- **[jsonapi.org](https://jsonapi.org)** _A specification for building APIs in JSON._
 - **[serversforhackers.com](serversforhackers.com)** _Teaching the server tech you need for development and production._
 
 ## References & Cheat Sheets
@@ -12,10 +17,11 @@
 - **[cssreference.io](https://cssreference.io/)** _A free visual guide to CSS. It features the most popular properties, and explains them with illustrated and animated examples._
 
 ## VIM
-- **[VIM golf](http://www.vimgolf.com/)** _Pick a challenge, fire up Vim, and show us what you got._
-- **[Cheat Sheet](https://vim.rtorr.com/)** _Vim Cheat Sheet._
-- **[Plugins](https://vimawesome.com/)** _Awesome Vim plugins from across the Universe._
-- **[Vimcasts.org](http://vimcasts.org/)** _Free screencasts on vim._
+- **[VIM golf](http://www.vimgolf.com/)** - _Pick a challenge, fire up Vim, and show us what you got._
+- **[Cheat Sheet](https://vim.rtorr.com/)** - _Vim Cheat Sheet._
+- **[Plugins](https://vimawesome.com/)** - _Awesome Vim plugins from across the Universe._
+- **[Vimcasts.org](http://vimcasts.org/)** - _Free screencasts on vim._
+- **[vimawesome.com](https://vimawesome.com/)** - _Plugins for vim._
 
 ## Tutorials
 
@@ -25,7 +31,6 @@
 
 #### Web Development
 - [ ] **[web.dev](https://web.dev/about)** _Whether you already have a website or you're just getting started, learn to build for the modern web at web.dev._
-- [ ] **[developers.google.com/web/fundamentals](https://developers.google.com/web/fundamentals/)** _Google's opinionated reference for building amazing web experiences._
 - [ ] **[freecodecamp.org](freecodecamp.org)** _We have thousands of coding lessons to help you improve your skills._
 - [x] **[internetingishard.com](internetingishard.com)** _Friendly web development tutorials for complete beginners_
 - [ ] **[practicaltypography.com](practicaltypography.com)** _Practical Typography for Web Development_
@@ -37,9 +42,6 @@
 #### CS
 1. **[RedBlobGames](https://www.redblobgames.com/)** - Interactive visual explanations of math and algorithms, using motivating examples from computer games.
 1. [ ] **[howhttps.works](howhttps.works)**
-1. [ ] **[Time Complexity](adrianmejia.com/blog/2018/04/05/most-popular-algorithms-time-complexity-every-programmer-should-know-free-online-tutorial-course/)**
-1. [x] **[S.O.L.I.D. Principles](https://scotch.io/bar-talk/s-o-l-i-d-the-first-five-principles-of-object-oriented-design#toc-interface-segregation-principle)**
-
 
 ## Resources
 1. **[sourcemaking.com](https://sourcemaking.com/)** | **[refactoring.guru](https://refactoring.guru/)** _Discover everything you need to know about refactoring, design patterns, SOLID principles and other smart programming topics._
@@ -67,16 +69,7 @@ Workflow and Understanding of the Laravel Eloquent Ecosystem._
 - **[phptherightway.com](phptherightway.com)**
 - **[github.com/jupeter/clean-code-php](github.com/jupeter/clean-code-php)**
 
-## Methodologies
-_Agile is an iterative approach to project management and software development._
-* [ ] **[atlassian.com/agile](atlassian.com/agile)** 
-* [ ] **[mountaingoatsoftware.com/agile](mountaingoatsoftware.com/agile)**
-
 ## TOOLS
-#### CLI TOOLS
-- **[Ack!](https://beyondgrep.com/)** _A tool like grep, optimized for programmers_
-- **[HTTPie](https://httpie.org)** _- cURL-like tool for humans._
-- **[vimawesome.com](https://vimawesome.com/)** _Plugins for vim._
 
 #### WEB DEV TOOLS & Resources
 * **[cssfx.dev](https://cssfx.dev/)** _Beautifully simple click-to-copy CSS effects._
@@ -92,14 +85,11 @@ _Agile is an iterative approach to project management and software development._
 * **[slatejs.org](slatejs.org)** __
 * **[simpleanalytics.io](simpleanalytics.io)** _Simple, clean, and friendly analytics._
 
-## Practice
-1. **[play.battlesnake.io](play.battlesnake.io)**
-1. **[adventofcode.com](adventofcode.com)**
-1. **[codewars.com](codewars.com)**
+## PRACTICE
+1. **[play.battlesnake.io](https://play.battlesnake.io)**
+1. **[adventofcode.com](https://adventofcode.com)**
+1. **[codewars.com](https://codewars.com)**
 
 ## Learn by Building
 * [ ] **[emulator101.com](emulator101.com)** - _Writing an arcade game emulator._
 * [ ] **[cstack.github.io/db_tutorial](cstack.github.io/db_tutorial)** - _Build a sqlite Database._
-
-## Blogs
-1. **[Robert C. Martin (Uncle Bob)](blog.cleancoder.com)** _The Clean Code Blog_
