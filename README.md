@@ -5,6 +5,7 @@
 - **[HTTPie](https://httpie.org)** - _cURL-like tool for humans._
 - **[tldr](https://github.com/tldr-pages/tldr)** - _Simplified and community-driven man pages._
 - **[fzf](https://github.com/junegunn/fzf)** - _A general-purpose command-line fuzzy finder._
+- **[bat](https://github.com/sharkdp/bat)** - _A cat(1) clone with syntax highlighting and Git integration._
 
 ## Fonts
 - **[Hack](https://sourcefoundry.org/hack/)** - _Hack is hand groomed and optically balanced to be your go-to code face._
