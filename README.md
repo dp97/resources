@@ -86,6 +86,7 @@ Workflow and Understanding of the Laravel Eloquent Ecosystem._
 * **[editorjs.io](editorjs.io)** __
 * **[slatejs.org](slatejs.org)** __
 * **[simpleanalytics.io](simpleanalytics.io)** _Simple, clean, and friendly analytics._
+* **[GoAccess](https://goaccess.io/)** _GoAccess is an open source real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser._
 
 ## PRACTICE
 1. **[play.battlesnake.io](https://play.battlesnake.io)**
